@@ -1,4 +1,5 @@
-{
+[
+  {
     "id": "film-1",
     "title": "Film Adı",
     "description": "Film açıklaması",
@@ -10,3 +11,4 @@
       "Kategori": "Dini"
     }
   }
+]
