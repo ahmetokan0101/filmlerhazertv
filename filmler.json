@@ -1,14 +1,28 @@
 [
   {
     "id": "film-1",
-    "title": "sevmiyenler",
+    "title": "Film Adı",
     "description": "Film açıklaması",
     "videoUrl": "https://storage.diziyou.live/episodes/24701_tr/720p.m3u8",
     "thumbnailUrl": "https://www.hdfilmcehennemi.nl/images/list/poster/kinda-pregnant.webp",
     "type": "movie",
     "addedDate": "2024-03-19T00:00:00Z",
     "additionalInfo": {
-      "Kategori": "Dini"
+      "Kategori": "Dini",
+      "Ülke": "Türkiye"
+    }
+  },
+  {
+    "id": "film-2",
+    "title": "İkinci Film",
+    "description": "İkinci film açıklaması",
+    "videoUrl": "film-2-video-url",
+    "thumbnailUrl": "film-2-poster-url",
+    "type": "movie",
+    "addedDate": "2024-03-19T00:00:00Z",
+    "additionalInfo": {
+      "Kategori": "Dini",
+      "Ülke": "Türkiye"
     }
   }
 ]
