@@ -1,0 +1,12 @@
+{
+    "id": "film-1",
+    "title": "Film Adı",
+    "description": "Film açıklaması",
+    "videoUrl": "film-video-url",
+    "thumbnailUrl": "film-poster-url",
+    "type": "movie",
+    "addedDate": "2024-03-19T00:00:00Z",
+    "additionalInfo": {
+      "Kategori": "Netflix"
+    }
+  }
